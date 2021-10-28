@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Api.Test01_GET" duration-ms="2048" started-at="2021-10-28T13:08:02 EDT" finished-at="2021-10-28T13:08:04 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2048" started-at="2021-10-28T13:08:02 EDT" finished-at="2021-10-28T13:08:04 EDT">
+      <class name="Api.Test01_GET">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Api.Test01_GET@6f7fd0e6]" name="test1" duration-ms="1406" started-at="2021-10-28T13:08:02 EDT" finished-at="2021-10-28T13:08:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Api.Test01_GET@6f7fd0e6]" name="test2" duration-ms="611" started-at="2021-10-28T13:08:03 EDT" finished-at="2021-10-28T13:08:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Api.Test01_GET -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Api.Test01_GET -->
+</testng-results>
